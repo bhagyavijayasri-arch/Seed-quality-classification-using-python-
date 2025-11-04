@@ -18,7 +18,7 @@ No external libraries required.
 # Step 1: Clone this repository
 git clone https://github.com/bhagyavijayasri-arch/Seed-quality-classification-using-python-.git
 # Step 2: Navigate to the folder
-cd Seed-Quality-Classification
+cd Seed-quality-classification-using-python
 # Step 3: Run the program
 python Seed_Quality_Classification.py
 
