@@ -20,4 +20,5 @@ git clone https://github.com/bhagyavijayasri-arch/Seed-quality-classification-us
 # Step 2: Navigate to the folder
 cd Seed-Quality-Classification
 # Step 3: Run the program
-python seed_quality.py
+python Seed_Quality_Classification.py
+
